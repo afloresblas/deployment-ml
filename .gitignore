@@ -1,1 +1,6 @@
 mlops/
+.ipynb_checkpoints/
+*.json
+*.csv
+*.pkl
+
